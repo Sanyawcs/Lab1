@@ -13,8 +13,8 @@
 - Отображение текста "Переданный параметр: Томилин".
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/60fea080-f0a9-4e0a-90b8-09b75e8e19da" width="250"> 
-    <img src="https://github.com/user-attachments/assets/ffa64f0c-e9b3-4d60-8675-fdb6832779c0" width="250">
+    <img src="https://github.com/Sanyawcs/Lab1/blob/master/image1.jpg" width="250"> 
+    <img src="https://github.com/Sanyawcs/Lab1/blob/master/image.png" width="250">
 </p> 
 
 ## <a id="Как-собрать-проект">Как собрать проект?</a>
